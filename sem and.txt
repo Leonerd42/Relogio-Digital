@@ -1,3 +1,15 @@
 
 
 	Branch para fazer o circuito funcionar sem as portas AND
+
+	 o professor disse durante a aula que daria pra fazer o circuito sem portas and. 
+	Tentei pensar numa forma de fazer isso, porém não consegui. 
+	
+	Deixei o começo do circuito aberto para alguem tentar. 
+
+
+	(Resetar sem porta and é facil, o problema é fazer dar o clock pro proximo CI). 
+
+		Tabela de reset da aula 13, pg 22, do professor adicionado como anexo. 
+
+	
