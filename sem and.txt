@@ -1,0 +1,3 @@
+
+
+	Branch para fazer o circuito funcionar sem as portas AND
